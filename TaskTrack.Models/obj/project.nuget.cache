@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3JzIxfDM2+s=",
+  "success": true,
+  "projectFilePath": "/home/uriel/Documentos/Programacao/TaskTrack/TaskTrack.Models/TaskTrack.Models.csproj",
+  "expectedPackageFiles": [
+    "/home/uriel/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/uriel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

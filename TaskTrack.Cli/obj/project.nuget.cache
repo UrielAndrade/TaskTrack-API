@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mFTYKKz2y0Y=",
+  "success": true,
+  "projectFilePath": "/home/uriel/Documentos/Programacao/TaskTrack/TaskTrack.Cli/TaskTrack.Cli.csproj",
+  "expectedPackageFiles": [
+    "/home/uriel/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/uriel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/uriel/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
